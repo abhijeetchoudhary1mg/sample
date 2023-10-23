@@ -1,7 +1,7 @@
 # sample
 Xcode Unit Test
-* Run ViewControllerTest unit test without razorpay-pod, Unit Test Coverage Data generates.
-* Run ViewControllerTest unit test with razorpay-pod, Unit Test Coverage Data throws _error_.
+* Run ViewControllerTest unit test without razorpay-pod uninstalled, Unit Test Coverage Data generates.
+* Run ViewControllerTest unit test with razorpay-pod installed, Unit Test Coverage Data throws _error_.
 
 ## Failures occurred during the generation of coverage report
 > [!WARNING]
